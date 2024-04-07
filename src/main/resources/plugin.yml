@@ -1,0 +1,7 @@
+name: DMT-Wiet
+version: '${project.version}'
+main: be.nateoncaprisun.dmtwiet.DMTWiet
+depend: [ WorldEdit, WorldGuard, Citizens ]
+authors: [ NateOnCaprisun, EddieFreddie ]
+commands:
+  drugs:

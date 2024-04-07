@@ -1,0 +1,48 @@
+Plukker-Material: SHEARS
+Plukker-Name: "&aSchaar"
+Plukker-Lore:
+  - "&7Officieel DailyMT Schaar"
+
+Wiet-Name: "&aWiet"
+Wiet-Lore:
+  - "&7Officieel DailyMT Drugs"
+
+Opium-Name: "&aOpium"
+Opium-Lore:
+  - "&7Officieel DailyMT Drugs"
+
+Paddo-Name: "&aPaddo"
+Paddo-Lore:
+  - "&7Officieel DailyMT Drugs"
+
+Glass-Name: "&aKlik Hier!"
+# Dit is hoeveel keer er een stained glass pane gaat zijn in het drugs menutje
+Glass-Hoeveelheid-Clicks-Wiet-Minimum: 2
+Glass-Hoeveelheid-Clicks-Wiet-Maximum: 5
+
+Glass-Hoeveelheid-Clicks-Opium-Minimum: 2
+Glass-Hoeveelheid-Clicks-Opium-Maximum: 5
+
+Glass-Hoeveelheid-Clicks-Paddo-Minimum: 2
+Glass-Hoeveelheid-Clicks-Paddo-Maximum: 5
+
+Plant-Herplaatst: 30
+
+Npc-Name: "&cDealer"
+
+Drugs-Sell-Gui: "&bDrugs Seller"
+
+Wiet-Sell-Name: "&aWiet Verkopen"
+Wiet-Sell-Lore:
+  - "&7Druk &aShift + rightclick &7om al je wiet te verkopen"
+Wiet-Sell-Value: 20
+
+Opium-Sell-Name: "&aOpium Verkopen"
+Opium-Sell-Lore:
+  - "&7Druk &aShift + rightclick &7om al je opium te verkopen"
+Opium-Sell-Value: 20
+
+Paddo-Sell-Name: "&aPaddo Verkopen"
+Paddo-Sell-Lore:
+  - "&7Druk &aShift + rightclick &7om al je paddos te verkopen"
+Paddo-Sell-Value: 20
